@@ -56,9 +56,6 @@
       Estudar (Filtros)
     </th>
     <th width="33.3%">
-      Estudar (Lista)
-    </th>
-    <th width="33.3%">
       Estudar (Favoritos)
     </th>
   </tr>
