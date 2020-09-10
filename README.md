@@ -14,7 +14,7 @@
 ### Landing 
 
 <p align="center">
-    <img alt="Landing" title="Landing" src="img/Web/Proffy.gif">
+    <img alt="Landing" title="Landing" src="https://github.com/Gabriel52/Proffy/blob/master/img/Web/proffy.gif">
 </p>
 
 ### Dar Aulas 
