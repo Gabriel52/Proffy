@@ -69,9 +69,6 @@
     <td>
         <img alt="Classes-List" title="Classes-List" width="620" src="img/Mobile/Favorites.jpg">
     </td>
-    <td>
-        <img alt="Favorites" title="Favorites" width="620" src="img/Mobile/Classes-List.jpg">
-    </td>
   </tr>
 </table>
 
